@@ -1,0 +1,1 @@
+if (buffer_exists(display_buffer))  buffer_delete(display_buffer);
